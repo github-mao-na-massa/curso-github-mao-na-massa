@@ -31,5 +31,6 @@ Nesse repositório vou listar os vídeos que fazem parte dessa série para apoia
   - [Codespaces - Copilot - etc](https://youtu.be/KZdBdpdfEfE?t=1428)
   - [Outras Configurações](https://youtu.be/KZdBdpdfEfE?t=1483)
   - [Criando uma chave ssh](https://youtu.be/KZdBdpdfEfE?t=1587)
+  - [Assinando Commit com chave SSH](https://www.youtube.com/watch?v=WD92Tg3fobc)
   
   # Em construção
