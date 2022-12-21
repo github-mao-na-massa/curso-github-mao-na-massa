@@ -67,4 +67,24 @@ Nesse repositório vou listar os vídeos que fazem parte dessa série para apoia
   - [Issues e Milestones](https://youtu.be/KR6A8iEorHk?t=924)
   - [Relacionando Projects a repositórios](https://youtu.be/KR6A8iEorHk?t=1063)
   - [Aulão de Issues](https://youtu.be/KR6A8iEorHk?t=1178)
-# Em construção
+
+  ## Tudo sobre GitHub Actions
+  - [Oque é o GitHub Actions](https://youtu.be/lcuobWOP40Y?t=0)
+  - [Quanto custa o GitHub Actions](https://youtu.be/lcuobWOP40Y?t=88)
+  - [Estrutura das Actions - Triggers](https://youtu.be/lcuobWOP40Y?t=287)
+  - [Estrutura das Actions - Jobs](https://youtu.be/lcuobWOP40Y?t=654)
+  - [Estrutura das Actions - Steps](https://youtu.be/lcuobWOP40Y?t=783)
+  - [Actions no Marketplace](https://youtu.be/lcuobWOP40Y?t=895)
+  - [Executando a Primeira Action](https://youtu.be/lcuobWOP40Y?t=973)
+  - [Pipeline Matrix](https://youtu.be/lcuobWOP40Y?t=1133)
+  - [Criando um pipeline de Deploy](https://youtu.be/lcuobWOP40Y?t=1342)
+  - [Criando Secrets em vários niveis](https://youtu.be/lcuobWOP40Y?t=1722)
+  - [Oque são runners](https://youtu.be/lcuobWOP40Y?t=1819)
+  - [Oque tem nos runners do GitHub](https://youtu.be/lcuobWOP40Y?t=1938)
+  - [Instalando Runners em Windows](https://youtu.be/lcuobWOP40Y?t=2128)
+  - [Executando Pipelines no Runner Local](https://youtu.be/lcuobWOP40Y?t=2428)
+  - [GitHub Actions Template Suggestion](https://youtu.be/lcuobWOP40Y?t=2705)
+  - [Oque são reusable workflows](https://youtu.be/lcuobWOP40Y?t=3002)
+  - [Criando e consumindo reusable workflows](https://youtu.be/lcuobWOP40Y?t=3101)
+
+
