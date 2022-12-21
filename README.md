@@ -34,7 +34,7 @@ Nesse repositório vou listar os vídeos que fazem parte dessa série para apoia
   - [Assinando Commit com chave SSH](https://www.youtube.com/watch?v=WD92Tg3fobc)
   
   ## Conhecendo seu Repositório
-	- [Introdução](https://youtu.be/ABtv7-QJ2c4?t=0)
+  - [Introdução](https://youtu.be/ABtv7-QJ2c4?t=0)
   - [Criando um Repositório](https://youtu.be/ABtv7-QJ2c4?t=80)
   - [Conhecendo o Repositório & GitHub.dev](https://youtu.be/ABtv7-QJ2c4?t=434)
   - [Funcionalidades do Repositório - Parte 1](https://youtu.be/ABtv7-QJ2c4?t=618)
