@@ -43,4 +43,15 @@ Nesse repositório vou listar os vídeos que fazem parte dessa série para apoia
   - [Access](https://youtu.be/ABtv7-QJ2c4?t=1165)
   - [Configurações de Branch](https://youtu.be/ABtv7-QJ2c4?t=1213)
   - [Aulão de Git](https://youtu.be/ABtv7-QJ2c4?t=1371)
+
+  ## Conhecendo Organizações
+  - [Oque é a organização?](https://youtu.be/tHBV8FuZd6M?t=0)
+  - [Criando uma organização](https://youtu.be/tHBV8FuZd6M?t=104)
+  - [Overview da Organização](https://youtu.be/tHBV8FuZd6M?t=273)
+  - [Pessoas e Times](https://youtu.be/tHBV8FuZd6M?t=355)
+  - [Configurações Gerais](https://youtu.be/tHBV8FuZd6M?t=588)
+  - [Configurações de Acesso](https://youtu.be/tHBV8FuZd6M?t=629)
+  - [Code, Planning & Automation](https://youtu.be/tHBV8FuZd6M?t=706)
+  - [Security e demais configurações](https://youtu.be/tHBV8FuZd6M?t=748)
+
 # Em construção
