@@ -54,4 +54,17 @@ Nesse repositório vou listar os vídeos que fazem parte dessa série para apoia
   - [Code, Planning & Automation](https://youtu.be/tHBV8FuZd6M?t=706)
   - [Security e demais configurações](https://youtu.be/tHBV8FuZd6M?t=748)
 
+  ## Gerenciando Demandas no GitHub
+  - [Introdução](https://youtu.be/KR6A8iEorHk?t=0)
+  - [Oque é o GitHub Projects](https://youtu.be/KR6A8iEorHk?t=100)
+  - [Ponto de Atenção](https://youtu.be/KR6A8iEorHk?t=158)
+  - [Criando um projeto Classico](https://youtu.be/KR6A8iEorHk?t=200)
+  - [Criando um projeto Beta](https://youtu.be/KR6A8iEorHk?t=305)
+  - [Configurações Gerais do projeto Beta](https://youtu.be/KR6A8iEorHk?t=406)
+  - [Iterations e Campos personalizados](https://youtu.be/KR6A8iEorHk?t=495)
+  - [Adicionando demandas ao Backlog](https://youtu.be/KR6A8iEorHk?t=566)
+  - [Hierarquia de Demandas](https://youtu.be/KR6A8iEorHk?t=781)
+  - [Issues e Milestones](https://youtu.be/KR6A8iEorHk?t=924)
+  - [Relacionando Projects a repositórios](https://youtu.be/KR6A8iEorHk?t=1063)
+  - [Aulão de Issues](https://youtu.be/KR6A8iEorHk?t=1178)
 # Em construção
