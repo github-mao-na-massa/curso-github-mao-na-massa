@@ -87,4 +87,6 @@ Nesse repositório vou listar os vídeos que fazem parte dessa série para apoia
   - [Oque são reusable workflows](https://youtu.be/lcuobWOP40Y?t=3002)
   - [Criando e consumindo reusable workflows](https://youtu.be/lcuobWOP40Y?t=3101)
 
-
+  ## GitHub Packages
+  - [Oque é o GitHub Packages](https://youtu.be/Ccb91tlx7iw)
+  - [Criando e Publicando um pacote Nuget](https://youtu.be/Ccb91tlx7iw?t=135)
