@@ -2,7 +2,7 @@
 
 Nesse repositório vou listar os vídeos que fazem parte dessa série para apoiar vocês a encontrarem com maior facilidade.
 
-## O Conteúdo será adicionado aos poucos, conforme os vídeos forem disponibilizados em meu canal no Youtube.
+
 
 ## Participe do nossos Grupos
 - [Discord](https://discord.gg/HAr9WFYkpB)
